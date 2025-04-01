@@ -1,0 +1,36 @@
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\bin\Debug\QLCuaHangThucAnNhanh.exe.config
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\bin\Debug\QLCuaHangThucAnNhanh.exe
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\bin\Debug\QLCuaHangThucAnNhanh.pdb
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_DangNhap.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Properties.Resources.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.csproj.GenerateResource.cache
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.exe
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.pdb
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_NhanVien.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_DoanhThu.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_KhachHang.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_MonAn.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_NguyenLieu.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_HDNhapNguyenLieu.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_Chinh.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_HDBanHang.resources
+D:\App_Project\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\bin\Debug\QLCuaHangThucAnNhanh.exe.config
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\bin\Debug\QLCuaHangThucAnNhanh.exe
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\bin\Debug\QLCuaHangThucAnNhanh.pdb
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_Chinh.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_DangNhap.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_HDBanHang.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_DoanhThu.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_HDNhapNguyenLieu.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_KhachHang.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_MonAn.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_NguyenLieu.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Frm_NhanVien.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.Properties.Resources.resources
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.csproj.GenerateResource.cache
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.exe
+D:\Đồ án cơ sở 2\QLCuaHangThucAnNhanh\QLCuaHangThucAnNhanh\obj\Debug\QLCuaHangThucAnNhanh.pdb
